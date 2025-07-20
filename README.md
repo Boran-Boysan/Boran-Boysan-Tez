@@ -1,5 +1,5 @@
-# Boran-Boysan-Tez
-🚀 Supply Chain Demand Forecasting System
+# 🚀 Supply Chain Demand Forecasting System
+
 📊 Overview
 An intelligent demand forecasting system built with machine learning algorithms to predict supply chain demands using multiple models including LSTM, XGBoost, Prophet, and ARIMA.
 🏗️ System Architecture
